@@ -2,7 +2,7 @@
 
   "description": "Keyboard controls for Guo Juan's Internet Go School",
   "manifest_version": 2,
-  "name": "Keyboard Control for Guo Juan's Internet Go School",
+  "name": "Keyboard Control for Internet Go School",
   "version": "0.9",
   "homepage_url": "https://github.com/cr/IGSControl",
   "icons": {

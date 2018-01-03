@@ -4,6 +4,9 @@
 supports any keyboard controls by default. This Firefox extension adds various keyboard controls,
 making it faster and more convenient to navigate through problems and lessons.
 
+## Installation
+Please visit the [extension's listing at addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/shortcuts-for-internetgoschool/)
+
 ## Main page
 |**New key**|**Action**
 |---|---|
